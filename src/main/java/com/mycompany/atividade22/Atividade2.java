@@ -12,7 +12,7 @@ import java.util.Scanner;
  *
  * @author felip
  */
-public class Atividade22 {
+public class Atividade2 {
 
     public static void main(String[] args) {
         int resposta;
