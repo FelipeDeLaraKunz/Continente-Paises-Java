@@ -30,7 +30,7 @@ Cálculo automático de:
 
 1- Clone o repositório
 ```script 
-    git clone https://github.com/FelipeDeLaraKunz/Atividade2Senac.git
+    git clone https://github.com/FelipeDeLaraKunz/Continente-Paises-Java.git
 ```
 2-Abra o projeto em uma IDE Java (ex: IntelliJ, Eclipse, NetBeans)
 
