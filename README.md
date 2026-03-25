@@ -8,8 +8,11 @@ Esta atividade foi desenvolvido em Java com o objetivo de representar continente
 A aplicação utiliza uma interface gráfica simples com JOptionPane, tornando a interação mais intuitiva, sem a necessidade de uso do terminal.
 
 ## Funcionalidades
+
 Cadastro de continente
+
 Cadastro de múltiplos países
+
 Cálculo automático de:
 - Dimensão total
 - População total
