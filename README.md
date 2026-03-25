@@ -9,8 +9,6 @@ A aplicação utiliza uma interface gráfica simples com JOptionPane, tornando a
 
 # Atividade
 
-## Screenshots
-
 ![Atividade Screenshot](AtividadePrint.png)
 
 
