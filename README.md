@@ -7,6 +7,17 @@ Esta atividade foi desenvolvido em Java com o objetivo de representar continente
 
 A aplicação utiliza uma interface gráfica simples com JOptionPane, tornando a interação mais intuitiva, sem a necessidade de uso do terminal.
 
+## Funcionalidades
+Cadastro de continente
+Cadastro de múltiplos países
+Cálculo automático de:
+- Dimensão total
+- População total
+- Densidade populacional
+- País mais e menos populoso
+- País com maior e menor dimensão
+- Razão territorial (maior país / menor país)
+
 # Atividade
 
 ![Atividade Screenshot](AtividadePrint.png)
